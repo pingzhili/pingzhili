@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-
 <!--
 **pingzhiLi/pingzhiLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=pingzhiLi&column=7)](https://github.com/Trinkle23897)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingzhiLi)](https://github.com/anuraghazra/github-readme-stats)
